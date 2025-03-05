@@ -8,17 +8,6 @@
 ## 🔗 Connect with me:  
 [![LinkedIn][(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satish-saha-38596323b)  ](https://www.linkedin.com/in/harish-bawari-b25627250/)
 
-# Hi 👋, I'm Satish Saha  
-### 🚀 A Passionate MERN Stack Developer from India  
-
-🌱 I’m currently learning **React, Tailwind CSS, MongoDB, Express.js, Node.js**  
-💬 Ask me about **React, HTML, Tailwind CSS**  
-📫 Reach me at **satishsaha09@gmail.com**  
-📄 Know about my experiences: [My Portfolio](https://l1nk.dev/kacNc)  
-
-## 🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satish-saha-38596323b)  
-
 ## 🛠 Languages and Tools:  
 
 ### **Frontend Development** 
