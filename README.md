@@ -41,8 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishbawari14&show_icons=true&theme=radical)  
+## 📊 GitHub Stats   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishbawari14&layout=compact&theme=radical)  
 
 ---
