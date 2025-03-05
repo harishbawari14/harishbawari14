@@ -35,8 +35,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 
-## 📊 GitHub Stats  
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishbawari14&show_icons=true&theme=radical)  
+## 📊 GitHub Stats   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishbawari14&layout=compact&theme=radical)  
 
 ---
